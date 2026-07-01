@@ -25,4 +25,4 @@ jobs:
 
       # Paso C: Finalmente, el robot ejecuta tu archivo
       - name: Ejecutar el script ejercicio1.py
-        run: python ejercicio.py
+        run: python ejercicio1.py
